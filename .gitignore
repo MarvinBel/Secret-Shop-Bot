@@ -1,0 +1,19 @@
+# Réglages personnels (positions, zones, statistiques)
+config.json
+config.json.tmp
+
+# Sauvegardes locales
+versions/
+
+# Captures personnelles (dépendent de ta résolution et de ta langue)
+templates/
+
+# Rapport d'autotest du .exe
+selftest.txt
+
+# Python
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
